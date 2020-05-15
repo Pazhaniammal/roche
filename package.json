@@ -1,0 +1,17 @@
+{
+  "name": "roche",
+  "version": "1.0.0",
+  "description": "roche operational and analytics",
+  "main": "index.js",
+  "dependencies": {
+    "@types/jasmine": "^2.8.7",
+    "protractor": "^5.4.2",
+    "jasmine": "^3.4.0",
+    "faker": "4.1.0"
+  },
+  "scripts": {
+    "test": "protractor test/config/conf.js"
+  },
+  "author": "Pazhaniammal",
+  "license": "ISC"
+}
